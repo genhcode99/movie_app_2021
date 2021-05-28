@@ -1,11 +1,12 @@
-import React from "react"
+import React from "react";
+import Potato from "./Patato";
 
 function App() {
   return(
     <div>
       <h1>Hello</h1>
+      <Potato/>
     </div>
-
   )
 }
 
